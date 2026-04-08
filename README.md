@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi there, I'm Donghyeon!!🖐
 
+ Hi, I'm Donghyeon. I work as a software developer at Samsung Heavy Industries
+ + 📖 I am working on a project using Flutter(Windows, Android) and .NET CORE.
+ + 📪 You can contact me at Email : <ehdgus6191@gmail.com> <br/>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Blog : <https://maybe-developer.tistory.com/>  <br/>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LinkedIn : <https://www.linkedin.com/in/donghyeon-gwak-5a84a9202/>
 <!--
 **moekalea/moekalea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
